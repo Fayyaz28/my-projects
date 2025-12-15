@@ -1,6 +1,8 @@
 # My Projects
 
 ## Live Demos
+**SQL Projects Link**
+https://bucolic-licorice-67a267.netlify.app/
 
 **Pixel Art Editor**  
 [https://pixel-art-editor.netlify.app](https://cool-cranachan-090ab0.netlify.app/))
