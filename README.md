@@ -1,6 +1,11 @@
 # My Projects
 
 ## Live Demos
+- **Image Classification System using MobileNetV2** — [Open in Colab](https://colab.research.google.com/drive/1kINOkCBiv6F3TKrn25emABx9CqFM90--)
+
+- **Text Extraction Using Tesseract OCR** — [Open in Colab](https://colab.research.google.com/drive/1ecF5l0Hh8NmXy9REkgk2hPIF1fD-9OnH)
+
+
 **SQL Projects Link**
 https://bucolic-licorice-67a267.netlify.app/
 
